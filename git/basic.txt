@@ -1,0 +1,19 @@
+構造
+workspace => staging => localRepository => RemoteRepository
+
+workspace => staging
+git add .
+git add ファイル名
+
+
+staging => localRepository
+git commit -m コメント
+
+git rest
+変更、削除したファイルがついてくる
+
+git checkout
+変更、削除下ファイルがついてこない
+
+
+
