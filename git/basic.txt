@@ -9,6 +9,13 @@ git add ファイル名
 staging => localRepository
 git commit -m コメント
 
+
+=================================
+確認
+=================================
+git log    //gitのログを確認する
+git status  //ローカルの変更を確認する
+
 git rest
 変更、削除したファイルがついてくる
 
