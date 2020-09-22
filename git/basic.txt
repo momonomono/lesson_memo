@@ -30,6 +30,8 @@ git status  //ローカルの変更を確認する
 git branch  　　　　　　　//現在のブランチを表示する
 git branch ブランチ名    //ブランチを作成
 
+git checkout ブランチ名　//ブランチ名の最終点に切り替える
+git checkout -b ブランチ名　//ブランチ名に切り替えてその状態に戻る
 
 git rest
 変更、削除したファイルがついてくる
