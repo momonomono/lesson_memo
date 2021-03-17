@@ -75,12 +75,12 @@ git checkout　<ブランチ名>
 　リモートレポジトリ
 =================================
 
-# リモートリポジトリの確認
+# 確認
 git remote -v
 
-# リモートリポジトリ先の追加
-git remote add origin 追加したいリポジトリ
+# 追加
+git remote add　<名前> <追加したいリポジトリ>
 
-# リモートリポジトリ先の削除
-git remote rm orign 
+# 削除
+git remote rm <名前>
 
